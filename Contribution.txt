@@ -1,0 +1,22 @@
+# Contributing Guidelines
+
+Thank you for your interest in contributing 🎉
+
+## How to Contribute
+1. Fork this repository
+2. Create a new branch (`git checkout -b feature-xyz`)
+3. Make your changes
+4. Commit (`git commit -m "Added xyz feature"`)
+5. Push (`git push origin feature-xyz`)
+6. Open a Pull Request
+
+## Code Style
+- Use meaningful variable names
+- Follow Java conventions (`camelCase` for variables/methods, `PascalCase` for classes)
+- Keep code clean and commented
+
+## Suggestions
+Feel free to open an issue if:
+- You have new feature ideas
+- You found a bug
+- You want to improve docs or structure

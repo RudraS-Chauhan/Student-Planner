@@ -1,0 +1,37 @@
+🛠️ Tech Stack
+
+Language: Java (JDK 17+ recommended)
+
+IDE: Works well in VS Code or IntelliJ IDEA
+
+🤝 Contributing
+
+Pull requests are welcome!
+For major changes, please open an issue first to discuss what you’d like to improve.
+
+📜 License
+
+This project is licensed under the MIT License – see the LICENSE
+ file for details.
+
+✍️ Author
+
+👤 Rudra – Student, Java learner, and aspiring online Java tutor.
+
+
+---
+
+# 📜 LICENSE (MIT License)
+```text
+MIT License
+
+Copyright (c) 2025 Rudra
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+[... standard MIT text ...]
